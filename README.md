@@ -18,23 +18,9 @@ Controls :
 The game can be played using a keyboard and mouse or touchscreen controls.
 
 To place an animal defender, click on the animal in your inventory and then click on a tile on the game board.
-To upgrade an animal defender, click on the animal and then click on the upgrade button.
-To use a power-up or bonus, click on the item in your inventory and then click on the location where you want to use it.
 
 Credits :
-Animal Invasion was developed by [insert developer name] and published by [insert publisher name]. The game features music and sound effects by [insert composer name].
-
-Contributing :
-We welcome contributions to Animal Invasion! If you would like to contribute to the game, please follow these steps:
-
-Fork the Animal Invasion repository on Github.
-Clone the repository to your local machine.
-Create a new branch for your changes.
-Make your changes to the code.
-Test your changes thoroughly.
-Commit your changes and push them to your fork.
-Submit a pull request to the main Animal Invasion repository.
-Please make sure to follow our code style and guidelines when making contributions. We appreciate your help in making Animal Invasion the best game it can be!
+Animal Invasion was developed and published by Jevin Soni.
 
 Feedback and Support :
-If you encounter any issues with the game or have feedback for the developers, please contact [insert support email address or link to support page].
+If you encounter any issues with the game or have feedback for the developers, please contact [jevinsonipro@gmail.com].
