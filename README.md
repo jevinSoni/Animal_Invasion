@@ -19,8 +19,3 @@ The game can be played using a keyboard and mouse or touchscreen controls.
 
 To place an animal defender, click on the animal in your inventory and then click on a tile on the game board.
 
-Credits :
-Animal Invasion was developed and published by Jevin Soni.
-
-Feedback and Support :
-If you encounter any issues with the game or have feedback for the developers, please contact [jevinsonipro@gmail.com].
